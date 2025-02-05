@@ -81,6 +81,9 @@ Este proyecto fue desarrollado como parte de la prueba técnica para Geotec y pu
 
 ## Autor
 Nombre: Wilson Aguilar Lima 
-Correo: wil6703(mailto:tuemail@gmail.com)  
+
+Correo: wil6703@gmail.com
+
 GitHub: https://github.com/willyson6703/Practicas.git
 ,
+
